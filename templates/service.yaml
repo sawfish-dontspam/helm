@@ -1,0 +1,11 @@
+---
+kind: Service
+apiVersion: v1
+metadata:
+  name: petclinic-service
+spec:
+  selector:
+    app: petclinic-front
+  ports:
+  - port: {{ .Values.service.port }}
+    targetPort: 8080
