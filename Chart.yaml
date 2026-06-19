@@ -4,4 +4,8 @@ description: A Helm chart for Pet Clinic
 icon: https://raw.githubusercontent.com/spring-projects/spring-petclinic/main/src/main/resources/static/resources/images/spring-pivotal-logo.png
 type: application
 version: 0.1.1
+<<<<<<< HEAD
 appVersion: 4.0.0-SNAPSHOT
+=======
+appVersion: 4.0.0-SNAPSHOT
+>>>>>>> 851128ad59419d2ad5157868ba33298fee6a82bd
